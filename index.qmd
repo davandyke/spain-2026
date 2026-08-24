@@ -1,0 +1,9 @@
+---
+title: "Spain 2026"
+---
+
+# Spain 2026
+
+- **Itinerary:** [Open the full itinerary](spain-2026-itinerary.qmd)
+
+A PDF is generated automatically with each push (see **Actions** → latest run → **Artifacts**).

@@ -1,0 +1,175 @@
+---
+title: "Spain Itinerary – Aug 27 to Sep 11, 2026"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+  pdf:
+    toc: true
+    number-sections: false
+  docx:
+    toc: true
+---
+
+::: {.callout-important}
+**Before you leave:** register for the Camino Frances / Pilgrim Pass at
+[cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true)
+to get the QR code required for check-in at Roncesvalles (and other participating albergues along the Way).
+:::
+
+## Itinerary
+
+### Day 1 – Thu Aug 27
+- Chicago ORD → Madrid (Iberia IB 342, Business, dep 4:55 pm, arr Aug 28 8:20 am)
+
+### Day 2 – Fri Aug 28
+- 08:20 — Arrive Madrid Barajas T4.
+- 10:32 — Depart Madrid–Puerta de Atocha (ALVIA, Localizador **YNPLW2**) → Pamplona/Iruña.
+- Transfer Pamplona → Saint-Jean-Pied-de-Port (taxi/bus — see Trip References for Taxi Asier contact).
+- Check-in: **Gîte de la Porte Saint Jacques** (Saint-Jean-Pied-de-Port).
+- Pick up pilgrim credential in SJPP if not already obtained.
+
+::: {.callout-note}
+Notes — Aug 28
+:::
+
+### Day 3 – Sat Aug 29 (Camino Day 1)
+- **Saint-Jean-Pied-de-Port → Roncesvalles** (~25 km / 15.5 mi) — the Napoleon Route over the Pyrenees.
+- Show QR code / passport at check-in. Albergue closes at 22:00; reservation held until 19:00 unless later arrival is flagged.
+- Dinner seating 20:30.
+- Overnight: **Albergue de Peregrinos de Orreaga-Roncesvalles** (Localizador **AL08344890**).
+
+::: {.callout-note}
+Notes — Aug 29
+:::
+
+### Days 4–14 – Aug 30 to Sep 9 (Camino Francés – Roncesvalles to Burgos)
+
+::: {.callout-warning}
+**Tentative pacing.** Lodging is only confirmed through Roncesvalles (Aug 29). The stages below are a suggested ~20–25 km/day plan with no rest days, ending in Burgos on Day 12 of walking. Late August on the Camino Francés is peak season and hot, especially crossing the Meseta near Burgos — worth booking a day or two ahead rather than showing up unbooked, and starting early to beat the heat. Adjust freely once on the trail.
+:::
+
+- **Day 4 (Aug 30):** Roncesvalles → Zubiri (~21.5 km / 13.4 mi)
+- **Day 5 (Aug 31):** Zubiri → Pamplona (~20.4 km / 12.7 mi)
+- **Day 6 (Sep 1):** Pamplona → Puente la Reina (~23.8 km / 14.8 mi)
+- **Day 7 (Sep 2):** Puente la Reina → Estella (~21.5 km / 13.4 mi)
+- **Day 8 (Sep 3):** Estella → Los Arcos (~21.3 km / 13.2 mi)
+- **Day 9 (Sep 4):** Los Arcos → Logroño (~27.5 km / 17.1 mi)
+- **Day 10 (Sep 5):** Logroño → Nájera (~29 km / 18.0 mi)
+- **Day 11 (Sep 6):** Nájera → Santo Domingo de la Calzada (~21 km / 13.0 mi)
+- **Day 12 (Sep 7):** Santo Domingo de la Calzada → Belorado (~22.8 km / 14.2 mi)
+- **Day 13 (Sep 8):** Belorado → San Juan de Ortega (~23.7 km / 14.7 mi)
+- **Day 14 (Sep 9):** San Juan de Ortega → Burgos (~25.8 km / 16.0 mi)
+
+::: {.callout-note}
+Notes — Camino days (add day-by-day as the trip happens)
+:::
+
+### Day 15 – Thu Sep 10
+- Burgos → Madrid (train/bus, ~2.5–3 hrs — book once travel day is confirmed).
+- Overnight near Madrid (airport-side, ahead of the 11:45 am flight).
+
+::: {.callout-note}
+Notes — Sep 10
+:::
+
+### Day 16 – Fri Sep 11
+- Madrid → Chicago ORD (Iberia IB 341, Business, dep 11:45 am, arr 2:25 pm).
+
+::: {.callout-note}
+Notes — Sep 11
+:::
+
+---
+
+## Packing List
+
+### Documents & Money
+- Passport
+- Pilgrim credential (credencial) — get stamped daily
+- Pilgrim Pass QR code (register before departure, see note above)
+- Flight, train & lodging confirmations (digital copies on phone)
+- Credit + ATM cards
+- Euro cash (small bills for albergues, donativos)
+
+### Pack Setup
+- Backpack with rain cover (35–40L)
+- 1 small dry sack (electronics/passport)
+- Packing cubes + plastic bags (organization, laundry separation)
+
+### Clothing
+- 2 quick-dry short-sleeve tees
+- 1 long-sleeve thermal / light layer (cool mornings crossing the Pyrenees on Day 1)
+- 1 light fleece or packable insulated layer
+- 1 lightweight rain jacket
+- 1 convertible hiking pant
+- 1 pair town/casual pants or shorts
+- 3 pairs quick-dry underwear
+- 3 pairs hiking socks (merino blend)
+
+### Footwear
+- Trail runners or light hiking shoes (broken in well before the trip)
+- Lightweight sandals or flip-flops (evenings)
+
+### Toiletries
+- Toothbrush + travel toothpaste
+- Small liquid soap (body + laundry, e.g. Dr. Bronner's)
+- Travel deodorant
+- Quick-dry towel
+- Sunscreen (August sun is strong, especially crossing the Meseta near Burgos)
+- Lip balm with SPF
+
+### Health & First Aid
+- Blister pads (Compeed-style hydrocolloid) — essential for Day 1's Pyrenees crossing
+- Ibuprofen / acetaminophen / personal medications
+- Hand sanitizer, tissues
+- Earplugs + eye mask (shared albergue dorms)
+- Trekking poles (recommended for the SJPP–Roncesvalles descent)
+
+### Electronics
+- iPhone + USB-C cord
+- EU plug adapter
+- AirPods
+- Portable power bank
+
+### Other
+- Sunglasses
+- Sun hat
+- Sleep sack / liner (albergue bedding varies)
+- 2 × 1L water bottles (heat + climb on Day 1 demand real hydration capacity)
+- Pen (credencial stamps, customs form on the flight home)
+
+---
+
+## Trip References (Bookings & Contacts)
+
+### Flights
+- **Aug 27 — ORD → MAD (Iberia IB 342, Business)** — dep 4:55 pm Aug 27, arr 8:20 am Aug 28.
+- **Sep 11 — MAD → ORD (Iberia IB 341, Business)** — dep 11:45 am, arr 2:25 pm.
+
+### Trains
+- **Aug 28 — Madrid Puerta de Atocha → Pamplona/Iruña (ALVIA)** — dep 10:32 am.
+  - Localizador: **YNPLW2** | Importe: €81.65 | 1 billete
+
+### Ground Transport
+- **Pamplona → Saint-Jean-Pied-de-Port**
+  - Taxi de confianza Roncesvalles / Taxi Asier: info@taxiasier.com / +34 670 61 61 90 / www.taxiasier.com (also covers SJPP ↔ Roncesvalles ↔ airport/train station, 9-seater)
+
+### Lodging
+- **Aug 28 — Saint-Jean-Pied-de-Port: Gîte de la Porte Saint Jacques**
+  - Address: 51 rue de la Citadelle, Saint-Jean-Pied-de-Port, France 64220
+  - Check-in Fri Aug 28 → Check-out Sat Aug 29
+  - Booking.com reservation #**6828058341** | €49 paid
+- **Aug 29 — Roncesvalles: Albergue de Peregrinos de Orreaga-Roncesvalles**
+  - Address: Carretera N-135, s/n, Roncesvalles, Navarra 31650
+  - Phone: +34 948 760 000 | info@alberguederoncesvalles.com | www.alberguederoncesvalles.com
+  - Localizador: **AL08344890** | €35 (alojamiento, cena y desayuno)
+  - Dinner seating 20:30. Doors close 22:00. Reservation held until 19:00 unless late arrival is flagged.
+  - Passport/ID required at check-in for every guest on the reservation.
+  - Pilgrim Pass QR code required — register in advance: [cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true)
+
+### To Be Booked
+- Lodging for Aug 30 – Sep 9 (Camino stages, Zubiri through Burgos) — book a day or two ahead given peak August demand.
+- Burgos → Madrid transport for Sep 10.
+- Madrid lodging for the night of Sep 10.

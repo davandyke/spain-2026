@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Spain Itinerary – 2026"
+  navbar:
+    left:
+      - text: Itinerary
+        href: spain-2026-itinerary.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+  pdf:
+    toc: true
