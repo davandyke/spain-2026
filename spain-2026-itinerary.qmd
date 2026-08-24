@@ -21,7 +21,8 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 ## Itinerary
 
 ### Day 1 – Thu Aug 27
-- Drive Grand Rapids → ORD (~2h45m–3h15m); park at **PreFlight Airport Parking ORD** (pre-booked online).
+- Drive Grand Rapids → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m); leave car there.
+- Uber Todd's house → ORD (~20–25 min).
 - Chicago ORD → Madrid (Iberia IB 342, Business, dep 4:55 pm, arr Aug 28 8:20 am)
 
 ### Day 2 – Fri Aug 28
@@ -77,7 +78,7 @@ Notes — Aug 28
 
 ### Day 16 – Fri Sep 11
 - Madrid → Chicago ORD (Iberia IB 341, Business, dep 11:45 am, arr 2:25 pm).
-- Shuttle back to PreFlight lot, drive ORD → Grand Rapids (~2h45m–3h15m).
+- Uber ORD → Todd's house, La Grange Highlands, IL (~20–25 min); pick up car, drive Grand Rapids (~2h45m–3h15m).
 
 ---
 
@@ -86,10 +87,7 @@ Notes — Aug 28
 ### Documents & Money
 - Passport
 - Pilgrim credential (credencial) — get stamped daily
-- Pilgrim Pass QR code (register before departure, see note above)
-- Flight, train & lodging confirmations (digital copies on phone)
 - Credit + ATM cards
-- Euro cash (small bills for albergues, donativos)
 
 ### Pack Setup
 - Backpack with rain cover (35–40L)
@@ -151,9 +149,9 @@ Notes — Aug 28
   - Localizador: **YNPLW2** | Importe: €81.65 | 1 billete
 
 ### Ground Transport
-- **Grand Rapids → ORD parking (Aug 27 – Sep 11, 15 days)**
-  - PreFlight Airport Parking ORD — pre-booked rate $9.95/day (~$149 total) | free 24/7 shuttle every 5–10 min | 4.5★ (1,346 reviews) | EV charging available
-  - Book online in advance (pre-booked rate vs. $12.95/day walk-up) — confirm shuttle covers Terminal 5 (Iberia's terminal) at booking
+- **Grand Rapids → ORD (Aug 27 – Sep 11)**
+  - Drive to Todd's house — 5739 S Franklin Ave, La Grange Highlands, IL — and leave the car there for the trip.
+  - Uber Todd's ↔ ORD on both ends (~20–25 min each way).
 - **Pamplona → Saint-Jean-Pied-de-Port**
   - Taxi de confianza Roncesvalles / Taxi Asier: info@taxiasier.com / +34 670 61 61 90 / www.taxiasier.com (also covers SJPP ↔ Roncesvalles ↔ airport/train station, 9-seater)
 
