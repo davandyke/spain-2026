@@ -28,7 +28,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 ### Day 2 – Fri Aug 28
 - 08:20 — Land Madrid Barajas T4.
 - 08:20–08:50 — Passport control (Schengen entry) + baggage claim.
-- ~08:55 — Cercanías **C1** from the "Aeropuerto T4" station → Atocha (~30 min, €2.60) — buy at the machines or with contactless card.
+- ~08:55 — Cercanías **C1** from the "Aeropuerto T4" station → Atocha (~30 min). Free via **Combinado Cercanías** — included with the ALVIA ticket for travel within 4 hrs of the 10:32 departure; look for a 5-character "Combinado Cercanías" code on the ticket and redeem it at a Cercanías machine for a free connecting ticket (buy normally, €2.60, if no code appears).
 - ~09:30 — Arrive Atocha; head to the Puerta de Atocha long-distance side and clear security/bag X-ray (required for AVE/ALVIA departures).
 - 10:32 — Depart Madrid–Puerta de Atocha (ALVIA 00605, Coche 1 / Seat 10C, Localizador **YNPLW2**) → Pamplona/Iruña. (~1h40m buffer from landing — comfortable even with a slow passport line.)
 - 13:59 — Arrive Pamplona/Iruña.
@@ -152,6 +152,7 @@ Notes — Aug 28
 ### Trains
 - **Aug 28 — Madrid Puerta de Atocha → Pamplona/Iruña (ALVIA 00605)** — dep 10:32 am, arr 1:59 pm.
   - Coche 1, Asiento 10C (Elige Confort) | Localizador: **YNPLW2** | Ticket no.: 7216302078276 | Importe: €81.65
+  - **Combinado Cercanías:** check the ticket for a 5-character code — redeems for a free Cercanías connection from Aeropuerto T4 to Atocha, valid within 4 hrs of the 10:32 departure.
 
 ### Ground Transport
 - **Grand Rapids → ORD (Aug 27 – Sep 11)**
