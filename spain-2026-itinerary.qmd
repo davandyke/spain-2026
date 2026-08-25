@@ -14,8 +14,7 @@ format:
 
 ## To Do Before You Leave
 - [ ] Register for the Camino Frances / Pilgrim Pass at [cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true) — needed for the QR code at Roncesvalles check-in (and other participating albergues).
-- [ ] Get an eSIM or international data plan for Spain/France — needed for calling ahead to book each night's albergue as the trip goes.
-- [ ] Confirm with El Palo de Avellano (Zubiri) whether a sleep sack/liner satisfies their "bring your own sleeping bag" requirement, or bring a compact 3-season bag instead.
+- [ ] Get an eSIM or international data plan for Spain/France 
 - [ ] Book Pamplona lodging (Day 5, Aug 31).
 - [ ] Book remaining Camino lodging day-by-day as the trip progresses (Puente la Reina through Burgos).
 - [ ] Book Burgos → Madrid transport for Sep 10.
@@ -166,6 +165,7 @@ format:
 - AirPods
 - Macbook Air
 - Portable power bank
+- Headlamp (dim/red-light mode if possible) — for pre-dawn starts and packing up quietly in dark dorms
 
 ### Other
 - Sunglasses
