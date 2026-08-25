@@ -31,7 +31,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - ~09:30 — Arrive Atocha; security/bag check for the ALVIA departure.
 - 10:32 — Depart Atocha (ALVIA 00605, Coche 1 / Seat 10C, Localizador **YNPLW2**) → Pamplona/Iruña.
 - 13:59 — Arrive Pamplona/Iruña.
-- Taxi from the station rank → Saint-Jean-Pied-de-Port (~1h12m). Taxi Asier is a fixed-rate backup — see Trip References.
+- Taxi from the station rank → Saint-Jean-Pied-de-Port (~1h12m), fixed fare ~€104–130 (regulated, not metered). Taxi Asier is a backup — see Trip References.
 - ~15:10–15:15 — Estimated arrival Saint-Jean-Pied-de-Port.
 - Check-in: **Gîte de la Porte Saint Jacques** (Saint-Jean-Pied-de-Port).
 - Pick up pilgrim credential in SJPP if not already obtained.
@@ -159,7 +159,8 @@ Notes — Aug 28
   - Uber Todd's ↔ ORD on both ends (~20–25 min each way).
 - **Pamplona → Saint-Jean-Pied-de-Port**
   - Primary plan: taxi rank at the Pamplona Renfe station (Plaza de la Estación) — taxis are normally available, no advance booking needed.
-  - Backup / fixed-rate option: Taxi de confianza Roncesvalles / Taxi Asier: info@taxiasier.com / +34 670 61 61 90 / www.taxiasier.com — ~€104 weekday flat rate (also covers SJPP ↔ Roncesvalles ↔ airport/train station, 9-seater)
+  - Fare is fixed/regulated (not metered) for this route: ~€104–120 weekday daytime, up to ~€130–150 nights/weekends/holidays. Ignore tourist transfer-booking sites quoting €150–350 — that's third-party markup, not the real fixed fare.
+  - Backup: Taxi de confianza Roncesvalles / Taxi Asier: info@taxiasier.com / +34 670 61 61 90 / www.taxiasier.com (also covers SJPP ↔ Roncesvalles ↔ airport/train station, 9-seater)
   - Local Pamplona radio-taxi dispatch (24h): +34 948 23 23 00 / +34 948 35 13 35
 
 ### Lodging
