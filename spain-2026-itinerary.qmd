@@ -1,5 +1,5 @@
 ---
-title: "Spain Itinerary – Aug 27 to Sep 11, 2026"
+title: "Spain Itinerary – Aug 27 to Sep 12, 2026"
 format:
   html:
     toc: true
@@ -107,7 +107,10 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 
 ### Day 16 – Fri Sep 11
 - Madrid → Chicago ORD: **Iberia IB 341**, Business, dep 11:45 am, arr 2:25 pm.
-- Uber ORD → Todd's house, La Grange Highlands, IL (~20–25 min); pick up car, drive Grand Rapids (~2h45m–3h15m).
+- Uber ORD → Todd's house, La Grange Highlands, IL (~20–25 min); overnight at Todd's.
+
+### Day 17 – Sat Sep 12
+- Drive Todd's house → Grand Rapids (~2h45m–3h15m).
 
 ---
 
@@ -159,7 +162,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 
 ### Other
 - Sunglasses
-- Sun hat
+- Hat
 - Sleep sack / liner (albergue bedding varies)
 - 2 × 1L water bottles
 - Pen
