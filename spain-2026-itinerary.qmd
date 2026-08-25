@@ -12,37 +12,40 @@ format:
     toc: true
 ---
 
-::: {.callout-important}
-**Before you leave:** register for the Camino Frances / Pilgrim Pass at
-[cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true)
-to get the QR code required for check-in at Roncesvalles (and other participating albergues along the Way).
-:::
+## To Do Before You Leave
+- [ ] Register for the Camino Frances / Pilgrim Pass at [cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true) — needed for the QR code at Roncesvalles check-in (and other participating albergues).
+- [ ] Get an eSIM or international data plan for Spain/France — needed for calling ahead to book each night's albergue as the trip goes.
+- [ ] Confirm with El Palo de Avellano (Zubiri) whether a sleep sack/liner satisfies their "bring your own sleeping bag" requirement, or bring a compact 3-season bag instead.
+- [ ] Book Pamplona lodging (Day 5, Aug 31).
+- [ ] Book remaining Camino lodging day-by-day as the trip progresses (Puente la Reina through Burgos).
+- [ ] Book Burgos → Madrid transport for Sep 10.
+- [ ] Book Madrid lodging for the night of Sep 10.
 
 ## Itinerary
 
 ### Day 1 – Thu Aug 27
-- ~9:00 am — Leave Grand Rapids → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic on I-94/I-80/I-294); leave car there.
-- ~12:55–1:00 pm — Arrive Todd's; ~15–20 min to park/unload.
-- ~1:15 pm — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total with traffic/pickup wait).
-- ~2:00 pm — Arrive ORD Terminal 5 (~3 hrs before departure — standard buffer for an international flight with checked bags in peak season).
+- ~9:00 am — Leave Grand Rapids (drop Gus off at Tisha's) → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic)
+- ~12:55–1:00 pm — Arrive Todd's
+- ~1:15 pm — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total).
+- ~2:00 pm — Arrive ORD Terminal 5 (~3 hrs before departure).
 - Chicago ORD → Madrid: **Iberia IB 342**, dep 4:55 pm, arr Aug 28 8:20 am.
 
 ### Day 2 – Fri Aug 28
 - 08:20 — Land Madrid Barajas T4; passport control + bags.
-- ~08:55 — Cercanías C1, "Aeropuerto T4" → Atocha (~30 min). Free — scan the ALVIA ticket's QR at the gate (Combinado Cercanías).
+- ~08:55 — Cercanías C1, "Aeropuerto T4" → Atocha (~30 min).
 - ~09:30 — Arrive Atocha; security/bag check for the ALVIA departure.
-- 10:32 — Depart Atocha → Pamplona/Iruña: **ALVIA 00605**, Coche 1 / Asiento 10C (Elige Confort), Localizador **YNPLW2**, Ticket no. 7216302078276
+- 10:32 — Depart Atocha → Pamplona/Iruña: **ALVIA 00605**, Coche 1 / Asiento 10C
 - 13:59 — Arrive Pamplona/Iruña.
 - Taxi from the station rank (Plaza de la Estación) → Saint-Jean-Pied-de-Port (~1h12m). Fixed/regulated fare, not metered: ~€104–120 weekday daytime. Local Pamplona radio-taxi dispatch (24h) if the rank is empty: +34 948 23 23 00 / +34 948 35 13 35.
 - ~15:10–15:15 — Estimated arrival Saint-Jean-Pied-de-Port.
-- Check-in: **Gîte de la Porte Saint Jacques**, 51 rue de la Citadelle, Saint-Jean-Pied-de-Port, France 64220. Check-in Fri Aug 28 → check-out Sat Aug 29. Booking.com reservation #**6828058341**, €49 paid.
+- Check-in: **Gîte de la Porte Saint Jacques**, 51 rue de la Citadelle, Saint-Jean-Pied-de-Port, France 64220.
 - Pick up pilgrim credential in SJPP if not already obtained.
 
 ### Day 3 – Sat Aug 29 (Camino Day 1)
 - **Saint-Jean-Pied-de-Port → Roncesvalles** (~25 km / 15.5 mi) — the Napoleon Route over the Pyrenees.
   - Route highlights: steep climb out of SJPP past Refuge Orisson; the Virgin of Biakorri statue; the high ridge crossing the France–Spain border with sweeping Pyrenees views; descent through beech forest at Col de Lepoeder into Roncesvalles' Collegiate Church and monastery.
 - Show QR code / passport at check-in. Dinner seating 20:30. Doors close 22:00; reservation held until 19:00 unless later arrival is flagged.
-- Overnight: **Albergue de Peregrinos de Orreaga-Roncesvalles**, Carretera N-135 s/n, Roncesvalles, Navarra 31650. Phone +34 948 760 000 | info@alberguederoncesvalles.com | www.alberguederoncesvalles.com. Localizador **AL08344890**, €35 (alojamiento, cena y desayuno). Passport/ID required at check-in for every guest on the reservation.
+- Overnight: **Albergue de Peregrinos de Orreaga-Roncesvalles**, Carretera N-135 s/n, Roncesvalles, Navarra 31650. Phone +34 948 760 000 | info@alberguederoncesvalles.com | www.alberguederoncesvalles.com. Localizador **AL08344890**, €35 (alojamiento, cena y desayuno)
 
 ::: {.callout-caution}
 **This is the hardest and most exposed day of the entire Camino** (~1,200 m climb, few bailout points), done one day after a transatlantic flight and jet lag. Start at first light. Check weather the night before — in fog, high wind, or rain, take the lower **Valcarlos route** instead (~19 km, road-based, far less exposure); ask at the SJPP pilgrim office. Carry rain layer, poles, and food/water since services on the Napoleon route are minimal.
@@ -51,7 +54,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 ### Day 4 – Sun Aug 30 (Camino Day 2)
 - **Roncesvalles → Zubiri** (~21.5 km / 13.4 mi)
   - Route highlights: descent through Auritz/Burguete (the village where Hemingway stayed and wrote of trout fishing in *The Sun Also Rises*); Roncesvalles pass and Erro valley beech forest; Alto de Erro; drop into Zubiri over the medieval Puente de la Rabia.
-- Overnight: **Albergue El Palo de Avellano**, Avenida Roncesvalles 16, Zubiri, Navarra 31630. Phone +34 666 499 175 | info@elpalodeavellano.com. Reserva #**1-4435804**, Cama en hab. compartida, 1 person / 1 night, €22.00 (breakfast included). No prepayment — pay at property, card held as guarantee; free cancel/modify up to 24 hrs before arrival. Reception 13:00–18:00; main door locks at 22:00 (key-card access after); check-out before 9:00; call ahead if arriving after 3pm. Bring a sleeping bag (sheets rentable, €3).
+- Overnight: **Albergue El Palo de Avellano**, Avenida Roncesvalles 16, Zubiri, Navarra 31630. Phone +34 666 499 175 | info@elpalodeavellano.com. (breakfast included). No prepayment — pay at property, card held as guarantee; free cancel/modify up to 24 hrs before arrival. Reception 13:00–18:00; main door locks at 22:00 (key-card access after); check-out before 9:00; call ahead if arriving after 3pm. Bring a sleeping bag (sheets rentable, €3).
 
 ### Day 5 – Mon Aug 31 (Camino Day 3)
 - **Zubiri → Pamplona** (~20.4 km / 12.7 mi)
@@ -105,7 +108,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 
 ### Day 15 – Thu Sep 10
 - Burgos → Madrid (train/bus, ~2.5–3 hrs) — not yet booked; book once the walking pace through Day 14 is confirmed.
-- Overnight near Madrid (airport-side, ahead of the 11:45 am flight) — not yet booked.
+- Overnight near Madrid — not yet booked.
 
 ### Day 16 – Fri Sep 11
 - Madrid → Chicago ORD: **Iberia IB 341**, dep 11:45 am, arr 2:25 pm.
@@ -120,8 +123,9 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 
 ### Documents & Money
 - Passport
-- Pilgrim credential (credencial) — get stamped daily
+- Pilgrim credential (credencial)
 - Credit + ATM cards
+- Euro cash
 
 ### Pack Setup
 - Backpack with rain cover (35–40L)
@@ -129,9 +133,9 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - Packing cubes + plastic bags (organization, laundry separation)
 
 ### Clothing
-- 2 quick-dry short-sleeve tees
-- 1 long-sleeve thermal / light layer
-- 1 light fleece or packable insulated layer
+- 2 quick-dry short-sleeve tees (Patiagonia Capilene)
+- 1 long-sleeve thermal / light layer (Smartwool 150)
+- 1 light fleece or packable insulated layer (Pategonia)
 - 1 lightweight rain jacket
 - 1 convertible hiking pant
 - 1 pair town/casual pants or shorts
@@ -139,14 +143,14 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - 3 pairs hiking socks (merino blend)
 
 ### Footwear
-- Trail runners or light hiking shoes
-- Lightweight sandals or flip-flops (evenings)
+- Trail runners or light hiking shoes (Altra Lone Peak)
+- Lightweight sandals (Xero Z-Trek))
 
 ### Toiletries
 - Toothbrush + travel toothpaste
 - Small liquid soap (body + laundry, e.g. Dr. Bronner's)
 - Travel deodorant
-- Quick-dry towel
+- Quick-dry towel (PackTowel)
 - Sunscreen
 - Lip balm with SPF
 
@@ -160,6 +164,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - iPhone + USB-C cord
 - EU plug adapter
 - AirPods
+- Macbook Air
 - Portable power bank
 
 ### Other
