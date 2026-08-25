@@ -14,6 +14,7 @@ format:
 
 ## To Do Before You Leave
 - [ ] Register for the Camino Frances / Pilgrim Pass at [cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true) — needed for the QR code at Roncesvalles check-in (and other participating albergues).
+- [ ] Meijer run for razer and travel toothbrush
 - [ ] Get an eSIM or international data plan for Spain/France 
 - [ ] Book Pamplona lodging (Day 5, Aug 31).
 - [ ] Book remaining Camino lodging day-by-day as the trip progresses (Puente la Reina through Burgos).
@@ -125,6 +126,7 @@ format:
 - Pilgrim credential (credencial)
 - Credit + ATM cards
 - Euro cash
+- Small travel wallet
 
 ### Pack Setup
 - Backpack with rain cover (35–40L)
@@ -134,16 +136,17 @@ format:
 ### Clothing
 - 2 quick-dry short-sleeve tees (Patiagonia Capilene)
 - 1 long-sleeve thermal / light layer (Smartwool 150)
-- 1 light fleece or packable insulated layer (Pategonia)
+- 1 light fleece or packable insulated layer (Pategonia R1 Pullover)
 - 1 lightweight rain jacket
 - 1 convertible hiking pant
-- 1 pair town/casual pants or shorts
+- 1 non-convertatble hiking pant
+- 1 pair lightweight shorts
 - 3 pairs quick-dry underwear
 - 3 pairs hiking socks (merino blend)
 
 ### Footwear
 - Trail runners or light hiking shoes (Altra Lone Peak)
-- Lightweight sandals (Xero Z-Trek))
+- Lightweight sandals (Xero Z-Trek)
 
 ### Toiletries
 - Toothbrush + travel toothpaste
@@ -161,10 +164,10 @@ format:
 
 ### Electronics
 - iPhone + USB-C cord
+- Apple Watch + USB-C cord
 - EU plug adapter
 - AirPods
 - Macbook Air
-- Portable power bank
 - Headlamp (dim/red-light mode if possible) — for pre-dawn starts and packing up quietly in dark dorms
 
 ### Other
