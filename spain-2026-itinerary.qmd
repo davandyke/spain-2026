@@ -36,10 +36,6 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - Check-in: **Gîte de la Porte Saint Jacques** (Saint-Jean-Pied-de-Port).
 - Pick up pilgrim credential in SJPP if not already obtained.
 
-::: {.callout-note}
-Notes — Aug 28
-:::
-
 ### Day 3 – Sat Aug 29 (Camino Day 1)
 - **Saint-Jean-Pied-de-Port → Roncesvalles** (~25 km / 15.5 mi) — the Napoleon Route over the Pyrenees.
   - Route highlights: steep climb out of SJPP past Refuge Orisson; the Virgin of Biakorri statue; the high ridge crossing the France–Spain border with sweeping Pyrenees views; descent through beech forest at Col de Lepoeder into Roncesvalles' Collegiate Church and monastery.
@@ -55,6 +51,7 @@ Notes — Aug 28
 
 - **Day 4 (Aug 30):** Roncesvalles → Zubiri (~21.5 km / 13.4 mi)
   - Route highlights: descent through Auritz/Burguete (the village where Hemingway stayed and wrote of trout fishing in *The Sun Also Rises*); Roncesvalles pass and Erro valley beech forest; Alto de Erro; drop into Zubiri over the medieval Puente de la Rabia.
+  - Overnight: **Albergue El Palo de Avellano** (Zubiri) — Reserva #**1-4435804**
 - **Day 5 (Aug 31):** Zubiri → Pamplona (~20.4 km / 12.7 mi)
   - Route highlights: riverside path along the Río Arga; Larrasoaña; the Romanesque Trinidad de Arre bridge marking the entry into greater Pamplona; Pamplona's old town, Plaza del Castillo, and the Gothic cathedral.
 - **Day 6 (Sep 1):** Pamplona → Puente la Reina (~23.8 km / 14.8 mi)
@@ -175,8 +172,14 @@ Notes — Aug 28
   - Dinner seating 20:30. Doors close 22:00. Reservation held until 19:00 unless late arrival is flagged.
   - Passport/ID required at check-in for every guest on the reservation.
   - Pilgrim Pass QR code required — register in advance: [cms-pilgrim-pass.web.app/preregistration](https://cms-pilgrim-pass.web.app/preregistration?pilgrim=true)
+- **Aug 30 — Zubiri: Albergue El Palo de Avellano**
+  - Address: Avenida Roncesvalles 16, Zubiri, Navarra 31630
+  - Phone: +34 666 499 175 | info@elpalodeavellano.com
+  - Reserva: **1-4435804** | Cama en hab. compartida, 1 person, 1 night — €22.00 (breakfast included)
+  - No prepayment — pay at property, card held as guarantee. Free cancel/modify up to 24 hrs before arrival.
+  - Reception 13:00–18:00; main door locks at 22:00 (key-card access after); check-out before 9:00. Call ahead if arriving after 3pm. Bring a sleeping bag (sheets rentable, €3).
 
 ### To Be Booked
-- Lodging for Aug 30 – Sep 9 (Camino stages, Zubiri through Burgos) — book a day or two ahead given peak August demand.
+- Lodging for Aug 31 – Sep 9 (Camino stages, Pamplona through Burgos) — book a day or two ahead given peak August demand.
 - Burgos → Madrid transport for Sep 10.
 - Madrid lodging for the night of Sep 10.
