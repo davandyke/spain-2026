@@ -21,17 +21,19 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 ## Itinerary
 
 ### Day 1 – Thu Aug 27
-- Drive Grand Rapids → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m); leave car there.
-- Uber Todd's house → ORD (~20–25 min).
-- Chicago ORD → Madrid: **Iberia IB 342**, Business, dep 4:55 pm, arr Aug 28 8:20 am.
+- ~9:00 am — Leave Grand Rapids → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic on I-94/I-80/I-294); leave car there.
+- ~12:55–1:00 pm — Arrive Todd's; ~15–20 min to park/unload.
+- ~1:15 pm — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total with traffic/pickup wait).
+- ~2:00 pm — Arrive ORD Terminal 5 (~3 hrs before departure — standard buffer for an international flight with checked bags in peak season).
+- Chicago ORD → Madrid: **Iberia IB 342**, dep 4:55 pm, arr Aug 28 8:20 am.
 
 ### Day 2 – Fri Aug 28
 - 08:20 — Land Madrid Barajas T4; passport control + bags.
 - ~08:55 — Cercanías C1, "Aeropuerto T4" → Atocha (~30 min). Free — scan the ALVIA ticket's QR at the gate (Combinado Cercanías).
 - ~09:30 — Arrive Atocha; security/bag check for the ALVIA departure.
-- 10:32 — Depart Atocha → Pamplona/Iruña: **ALVIA 00605**, Coche 1 / Asiento 10C (Elige Confort), Localizador **YNPLW2**, Ticket no. 7216302078276, €81.65.
+- 10:32 — Depart Atocha → Pamplona/Iruña: **ALVIA 00605**, Coche 1 / Asiento 10C (Elige Confort), Localizador **YNPLW2**, Ticket no. 7216302078276
 - 13:59 — Arrive Pamplona/Iruña.
-- Taxi from the station rank (Plaza de la Estación) → Saint-Jean-Pied-de-Port (~1h12m). Fixed/regulated fare, not metered: ~€104–120 weekday daytime, up to ~€130–150 nights/weekends/holidays. Local Pamplona radio-taxi dispatch (24h) if the rank is empty: +34 948 23 23 00 / +34 948 35 13 35.
+- Taxi from the station rank (Plaza de la Estación) → Saint-Jean-Pied-de-Port (~1h12m). Fixed/regulated fare, not metered: ~€104–120 weekday daytime. Local Pamplona radio-taxi dispatch (24h) if the rank is empty: +34 948 23 23 00 / +34 948 35 13 35.
 - ~15:10–15:15 — Estimated arrival Saint-Jean-Pied-de-Port.
 - Check-in: **Gîte de la Porte Saint Jacques**, 51 rue de la Citadelle, Saint-Jean-Pied-de-Port, France 64220. Check-in Fri Aug 28 → check-out Sat Aug 29. Booking.com reservation #**6828058341**, €49 paid.
 - Pick up pilgrim credential in SJPP if not already obtained.
@@ -106,7 +108,7 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - Overnight near Madrid (airport-side, ahead of the 11:45 am flight) — not yet booked.
 
 ### Day 16 – Fri Sep 11
-- Madrid → Chicago ORD: **Iberia IB 341**, Business, dep 11:45 am, arr 2:25 pm.
+- Madrid → Chicago ORD: **Iberia IB 341**, dep 11:45 am, arr 2:25 pm.
 - Uber ORD → Todd's house, La Grange Highlands, IL (~20–25 min); overnight at Todd's.
 
 ### Day 17 – Sat Sep 12
