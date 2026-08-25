@@ -26,8 +26,11 @@ to get the QR code required for check-in at Roncesvalles (and other participatin
 - Chicago ORD → Madrid (Iberia IB 342, Business, dep 4:55 pm, arr Aug 28 8:20 am)
 
 ### Day 2 – Fri Aug 28
-- 08:20 — Arrive Madrid Barajas T4.
-- 10:32 — Depart Madrid–Puerta de Atocha (ALVIA, Localizador **YNPLW2**) → Pamplona/Iruña.
+- 08:20 — Land Madrid Barajas T4.
+- 08:20–08:50 — Passport control (Schengen entry) + baggage claim.
+- ~08:55 — Cercanías **C1** from the "Aeropuerto T4" station → Atocha (~30 min, €2.60) — buy at the machines or with contactless card.
+- ~09:30 — Arrive Atocha; head to the Puerta de Atocha long-distance side and clear security/bag X-ray (required for AVE/ALVIA departures).
+- 10:32 — Depart Madrid–Puerta de Atocha (ALVIA, Localizador **YNPLW2**) → Pamplona/Iruña. (~1h40m buffer from landing — comfortable even with a slow passport line.)
 - Transfer Pamplona → Saint-Jean-Pied-de-Port (taxi/bus — see Trip References for Taxi Asier contact).
 - Check-in: **Gîte de la Porte Saint Jacques** (Saint-Jean-Pied-de-Port).
 - Pick up pilgrim credential in SJPP if not already obtained.
