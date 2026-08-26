@@ -24,11 +24,11 @@ format:
 ## Itinerary
 
 ### Day 1 – Thu Aug 27
-- ~9:00 am — Leave Grand Rapids (drop Gus off at Tisha's) → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic)
-- ~12:55–1:00 pm — Arrive Todd's
-- ~1:15 pm — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total).
-- ~2:00 pm — Arrive ORD Terminal 5 (~3 hrs before departure).
-- Chicago ORD → Madrid: **Iberia IB 342**, dep 4:55 pm, arr Aug 28 8:20 am.
+- ~10:00 am ET — Leave Grand Rapids (drop Gus off at Tisha's) → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic). Note: Chicago is Central Time, 1 hour behind Grand Rapids.
+- ~11:45 am–12:30 pm CT — Arrive Todd's.
+- ~12:30 pm CT — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total).
+- ~1:15 pm CT — Arrive ORD Terminal 5 (~3h40m before departure).
+- Chicago ORD → Madrid: **Iberia IB 342**, dep 4:55 pm CT, arr Aug 28 8:20 am (local Madrid time).
 
 ### Day 2 – Fri Aug 28
 - 08:20 — Land Madrid Barajas T4; passport control + bags.
@@ -132,6 +132,7 @@ format:
 - Backpack with rain cover (35–40L)
 - 1 small dry sack (electronics/passport)
 - Packing cubes + plastic bags (organization, laundry separation)
+- Trekking poles (recommended for the SJPP–Roncesvalles descent)
 
 ### Clothing
 - 2 quick-dry short-sleeve tees (Patiagonia Capilene)
@@ -160,12 +161,11 @@ format:
 - Blister pads (Compeed-style hydrocolloid)
 - Ibuprofen / acetaminophen / personal medications
 - Earplugs + eye mask (shared albergue dorms)
-- Trekking poles (recommended for the SJPP–Roncesvalles descent)
 
 ### Electronics
-- iPhone + USB-C cord
+- iPhone + USB-C cord (6 foot to reach top bunk in albergue dorms)
 - Apple Watch + USB-C cord
-- EU plug adapter
+- EU plug adapter and USB-C wall charger
 - AirPods
 - Macbook Air
 - Headlamp (dim/red-light mode if possible) — for pre-dawn starts and packing up quietly in dark dorms
