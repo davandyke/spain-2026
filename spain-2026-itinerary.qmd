@@ -24,10 +24,10 @@ format:
 ## Itinerary
 
 ### Day 1 – Thu Aug 27
-- ~10:00 am ET — Leave Grand Rapids (drop Gus off at Tisha's) → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic). Note: Chicago is Central Time, 1 hour behind Grand Rapids.
-- ~11:45 am–12:30 pm CT — Arrive Todd's.
-- ~12:30 pm CT — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total).
-- ~1:15 pm CT — Arrive ORD Terminal 5 (~3h40m before departure).
+- ~10:20 am ET — Leave Grand Rapids (drop Gus off at Tisha's) → Todd's house, 5739 S Franklin Ave, La Grange Highlands, IL (~2h45m–3h15m normally; budget 3h30m for Chicago-area traffic). Note: Chicago is Central Time, 1 hour behind Grand Rapids.
+- ~12:50 pm CT — Arrive Todd's.
+- ~1:10 pm CT — Uber Todd's house → ORD (~20–25 min drive; budget ~45 min total).
+- ~1:55 pm CT — Arrive ORD Terminal 5 (~3 hrs before departure).
 - Chicago ORD → Madrid: **Iberia IB 342**, dep 4:55 pm CT, arr Aug 28 8:20 am (local Madrid time).
 
 ### Day 2 – Fri Aug 28
